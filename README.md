@@ -57,9 +57,9 @@ Hi, I'm Mohammad Ashraful Islam, a passionate web developer with nearly three ye
 <br/>
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=mdashraful-i2&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=mdashraful-i2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdashraful-i2&hide_border=true&layout=compact" align="center" /></div>  
+![mdashraful-i2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdashraful-i2&theme=vue-dark&hide_border=true)
 
 <br/>  
 
